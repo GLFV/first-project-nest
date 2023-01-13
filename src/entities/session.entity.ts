@@ -11,12 +11,8 @@ export class UserPrivacy {
   id: number;
 
   @Column()
-  phone: number;
-
-  // maybe email ?)
-  @Column()
-  mail: string;
+  accessToken: string;
 
   @Column()
-  password: string;
+  refreshToken: string;
 }

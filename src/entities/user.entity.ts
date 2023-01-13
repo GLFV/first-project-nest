@@ -13,4 +13,14 @@ export class User {
 
   @Column()
   nickName: string;
+
+  @Column()
+  phone: number;
+
+  // maybe email ?)
+  @Column()
+  mail: string;
+
+  @Column()
+  password: string;
 }
