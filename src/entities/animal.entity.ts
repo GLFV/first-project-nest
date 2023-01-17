@@ -5,11 +5,6 @@ export class Animal {
   @PrimaryGeneratedColumn()
   id: number;
 
-  // What fot is this column?
-  // Maybe you should add User
-  @Column()
-  animal: string;
-
   @Column()
   name: string;
 

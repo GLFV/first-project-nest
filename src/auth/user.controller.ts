@@ -1,6 +1,6 @@
 import { Controller, Get } from '@nestjs/common';
 
-import { UserService } from './user.service';
+import UserService from './user.service';
 
 // TODO: rename files to auth.module, auth.controller, auth.service
 @Controller()
