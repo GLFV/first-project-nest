@@ -1,5 +1,5 @@
 import { Session } from '../entities/session.entity';
-import { Animal } from './../entities/animal.entity';
+import { Animal } from '../entities/animal.entity';
 import { UserController } from './user.controller';
 import UserService from './user.service';
 import { Module } from '@nestjs/common';

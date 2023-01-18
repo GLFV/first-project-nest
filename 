@@ -1,0 +1,71 @@
+[33mcommit 03618048d0f5a1366f12724d9e4d4404c405ba14[m[33m ([m[1;36mHEAD -> [m[1;32mtodo[m[33m, [m[1;31morigin/todo[m[33m)[m
+Author: GLFV <okolesnik753@gmail.com>
+Date:   Tue Jan 17 17:12:56 2023 -0500
+
+    create regestration
+
+[33mcommit 99a582b1a884f3407186ac6a3e3cc26d5b96af98[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 6bd60eb 477871d
+Author: Олександр <90966662+GLFV@users.noreply.github.com>
+Date:   Mon Jan 16 16:27:32 2023 -0500
+
+    Merge pull request #2 from yevhenprudnik/todos
+    
+    add more todos && rename entity.
+
+[33mcommit 477871d47b8885948715bcb36631a6f06b2a8070[m
+Author: Yevhen Prudnik <yevhenprudnik@gmail.com>
+Date:   Mon Jan 16 14:03:40 2023 +0200
+
+    add more todos&rename entity
+
+[33mcommit 6bd60ebab818594adedba96148020e7b4baf3cca[m
+Author: GLFV <okolesnik753@gmail.com>
+Date:   Fri Jan 13 15:34:38 2023 -0500
+
+    rename enity and add new column
+
+[33mcommit 72b91419b91865c6b827bda3855ab7ba3e33d269[m
+Merge: e58fcd4 7acc0e5
+Author: Олександр <90966662+GLFV@users.noreply.github.com>
+Date:   Fri Jan 13 15:09:18 2023 -0500
+
+    Merge pull request #1 from yevhenprudnik/todos
+    
+    add some todos
+
+[33mcommit 7acc0e5e382b5e8a347249568ce72fe26b487d6b[m
+Author: Yevhen Prudnik <yevhenprudnik@gmail.com>
+Date:   Fri Jan 13 11:10:10 2023 +0200
+
+    add some todos
+
+[33mcommit e58fcd4c033f9e1bbc413796fc8188674cf91e0a[m
+Author: GLFV <okolesnik753@gmail.com>
+Date:   Thu Jan 12 16:07:10 2023 -0500
+
+    add user controller,module,service
+
+[33mcommit 7c9b2dd193e91f103a0a9d59379be59539c6915b[m
+Author: GLFV <okolesnik753@gmail.com>
+Date:   Thu Jan 12 15:40:43 2023 -0500
+
+    create entity
+
+[33mcommit 1a492360771cf4cb023ab5ff4f7b8c604fa65a20[m
+Author: GLFV <okolesnik753@gmail.com>
+Date:   Thu Jan 12 15:35:15 2023 -0500
+
+    fix problem with db
+
+[33mcommit 8b1365365654b6d51648526c13f88d16f81cdd9f[m
+Author: GLFV <okolesnik753@gmail.com>
+Date:   Thu Jan 12 14:37:11 2023 -0500
+
+    add db
+
+[33mcommit b3ec30514651ae959ee4b4fbca7c174cf6b0fb8b[m
+Author: GLFV <okolesnik753@gmail.com>
+Date:   Thu Jan 12 13:50:24 2023 -0500
+
+    installing nest
