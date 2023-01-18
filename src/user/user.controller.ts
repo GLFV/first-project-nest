@@ -3,7 +3,6 @@ import { RegisterDto } from 'src/dtos/register.dto';
 
 import UserService from './user.service';
 
-// TODO: rename files to auth.module, auth.controller, auth.service
 @Controller('auth')
 export class UserController {
   constructor(private readonly userService: UserService) {}
